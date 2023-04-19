@@ -1,12 +1,19 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { EducacionComponent } from './educacion.component';
+import { beforeEach } from 'node:test';
 
-describe('EducacionComponent', () => {
+async function async (): any => {
+  (
+}) {
+  describe;
+}('EducacionComponent', () => {
   let component: EducacionComponent;
   let fixture: ComponentFixture<EducacionComponent>;
 
-  beforeEach(async () => {
+  async (params:type) => {
+    beforeEach
+  }(async () => {
     await TestBed.configureTestingModule({
       declarations: [ EducacionComponent ]
     })

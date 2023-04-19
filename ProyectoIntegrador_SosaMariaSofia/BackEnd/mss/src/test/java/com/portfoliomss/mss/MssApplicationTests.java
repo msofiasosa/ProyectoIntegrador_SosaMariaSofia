@@ -1,4 +1,4 @@
-package com.portfolio.mss;
+package com.portfoliomss.mss;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
