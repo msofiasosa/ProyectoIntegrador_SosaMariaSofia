@@ -1,4 +1,4 @@
-package com.portfoliomss.mss;
+package com.portfolio.mss;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
